@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Mahendra Kausik V<br><br>**3rd Year B.Tech | CSE (AI & ML)** Exploring the intersection of **Software Engineering** and **Artificial Intelligence**.<br><br>---<br><br>### 💻 Core Tech<br>- **Languages:** Python • C++ • Java<br>- **AI/ML:** PyTorch • TensorFlow • Scikit-learn • Keras<br>- **Tools:** Git • Docker
+# Mahendra Kausik V<br><br>**3rd Year B.Tech | CSE (AI & ML)** Exploring the intersection of **Software Engineering** and **Artificial Intelligence**.<br><br>---<br><br>
+
+### 💻 Core Tech<br>- **Languages:** Python • C++ • Java<br>- **AI/ML:** PyTorch • TensorFlow • Scikit-learn • Keras<br>- **Tools:** Git • Docker
 
 
 # 💻 Tech Stack:
