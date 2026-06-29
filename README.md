@@ -1,6 +1,6 @@
 # Mahendra Kausik V
 
-## **3rd Year B.Tech | CSE (AI & ML)**  
+## **4th Year B.Tech | CSE (AI & ML)**  
 Exploring the intersection of **Software Engineering**, **Artificial Intelligence**, and **LLM-powered systems**.<br><br>
 
 ### 💻 Core Tech  
